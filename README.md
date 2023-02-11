@@ -95,7 +95,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 ## 🏆 GitHub Trophies:
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya1011" alt="supriya1011" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=supriya1011" alt="supriya1011" /></a> </p>
 
 ## 📊 GitHub Stats:
 
