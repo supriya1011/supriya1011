@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
-<h1 align="center">I'm Sudipta Pramanik</h1>
+<h1 align="center">I'm Supriya Sahoo</h1>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptapramanik209&label=Profile%20views&color=0e75b6&style=flat" alt="sudopta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya1011&label=Profile%20views&color=0e75b6&style=flat" alt="supriya" /> </p>
 
 
 <img align="right" alt="coding" width="400" height="250" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" />
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sudiptapramanik209.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://supriya1011.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Redux, NodeJs, Express Js, MongoDB and Data Structure And Algorithms**
 
-- 📫 How to reach me 'sudiptapramanik209@gmail.com'
+- 📫 How to reach me 'supriyasahoo1011@gmail.com'
 
-- 👉 My LinkedIn Profile - [Sudipta Pramanik](https://www.linkedin.com/in/sudipta-pramanik-497b031b5/)
+- 👉 My LinkedIn Profile - [Supriya Sahoo](https://www.linkedin.com/in/supriya-sahoo/)
 
 - ⚡ Fun fact **Quick learner**
 
@@ -47,11 +47,11 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 
 <p text-align="center">
 
-<a href="https://www.linkedin.com/in/sudipta-pramanik-497b031b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptapramanik209" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/supriya-sahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya1011" height="30" width="40" /></a>
 
  
 
-<a href="https://codesandbox.io/u/sudiptapramanik209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sudiptapramanik209" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/supriya1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="supriya1011" height="30" width="40" /></a>
  
  
 <!-- <a href="https://codepen.io/sudiptapramanik209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudiptapramanik209" height="30" width="40" /></a> -->
@@ -95,16 +95,16 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
 ## 🏆 GitHub Trophies:
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptapramanik209" alt="sudiptapramanik209" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya1011" alt="supriya1011" /></a> </p>
 
 ## 📊 GitHub Stats:
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudiptapramanik209&show_icons=true&locale=en&layout=compact" alt="sudiptapramanik209" /></p><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriya1011&show_icons=true&locale=en&layout=compact" alt="supriya1011" /></p><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptapramanik209&show_icons=true&locale=en" alt="sudiptapramanik209" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya1011&show_icons=true&locale=en" alt="supriya1011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptapramanik209&" alt="sudiptapramanik209" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya1011&" alt="supriya1011" /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudiptapramanik209&theme=rogue)]([https://github.com/sudiptapramanik209/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=sudiptapramanik209&theme=rogue))
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=supriya1011&theme=rogue)]([https://github.com/supriya1011/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=supriya1011&theme=rogue))
