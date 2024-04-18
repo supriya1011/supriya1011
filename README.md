@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning QA Testing****
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://supriya1011.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Redux, NodeJs, Express Js, MongoDB and Data Structure And Algorithms**
+- 💬 Ask me about **HTML, CSS, JavaScript, selenium,cypress,postman,sopui,rest API and Data Structure And Algorithms**
 
 - 📫 How to reach me 'supriyasahoo1011@gmail.com'
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **Quick learner**
 
 Summary
-A passionate Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js, Data Structure And Algorithms. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a Full-Stack Web Developer.
+Motivated and innovative Software development engineer in test with hands-on experience in testing websites with verious tool and various web technologies...
 
 
 <h3 align="left">Connect with me:</h3>
@@ -76,7 +76,7 @@ A passionate Developer, who loves to create slick and attractive websites. Profi
  
   <img src="https://codetru.com/images/all/nodejsdis.gif" width="100">
  <img src="https://cdn.dribbble.com/users/989984/screenshots/5880822/comp_10.gif" width="100" height="100px">
- <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px">
+<!--  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px"> -->
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
