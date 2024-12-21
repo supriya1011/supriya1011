@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning QA Testing****
+- 🌱 I’m a QA Tester as a Freshers****
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://supriya1011.github.io/)
 
