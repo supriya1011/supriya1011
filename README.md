@@ -82,7 +82,7 @@ Motivated and innovative Software development engineer in test with hands-on exp
 
  <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px">
   <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px">  
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+<!--  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">  
@@ -94,7 +94,7 @@ Motivated and innovative Software development engineer in test with hands-on exp
  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3550832-2970417.png" width="100">
  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1574980164835/kCDLuOzFb.gif?auto=format,compress&gif-q=60&format=webm" width="100" height="90px">
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
- <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px">
+ <img src="https://cdn.dribbble.com/users/7040/screenshots/8214019/media/9d162bf2d3303da6f3e777bbae322b33.gif" alt="agrawalrajat310" width="100"  height="100px"> -->
  
 </div>
 
