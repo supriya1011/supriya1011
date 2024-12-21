@@ -66,7 +66,8 @@ Motivated and innovative Software development engineer in test with hands-on exp
  -->
  
  <div align="center">
-  <img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/>
+  <a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
+
 
  <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px">
   <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px">  
